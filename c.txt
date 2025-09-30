@@ -1,1 +1,6 @@
 Primeiro commit do curso C#.
+
+# Criar a Pasta Fundamentos
+# Criar o projeto dotnet new console -o .
+
+# Conceito de Region e EndRegion
