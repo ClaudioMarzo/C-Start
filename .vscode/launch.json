@@ -1,0 +1,49 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Atividade_I",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Atividade_I/bin/Debug/net8.0/Atividade_I.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Atividade_I",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": ".NET Atividade_II",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Atividade_II/bin/Debug/net8.0/Atividade_II.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Atividade_II",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": ".NET Fundamentos",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Fundamentos/bin/Debug/net8.0/Fundamentos.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Fundamentos",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": ".NET Estruturas de Controle",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/EstruturasDeControle/bin/Debug/net8.0/EstruturasDeControle.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/EstruturasDeControle",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        }
+    ]
+}
