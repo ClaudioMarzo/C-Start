@@ -44,6 +44,17 @@
             "cwd": "${workspaceFolder}/EstruturasDeControle",
             "stopAtEntry": false,
             "console": "internalConsole"
-        }
+        },
+        {
+            "name": ".NET Estruturas de Repeticao",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/EstruturasDeRepeticao/bin/Debug/net8.0/EstruturasDeRepeticao.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/EstruturasDeRepeticao",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
     ]
 }
