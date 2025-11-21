@@ -56,5 +56,16 @@
             "stopAtEntry": false,
             "console": "internalConsole"
         },
+        {
+            "name": ".NET Atividade III",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Atividade_III/bin/Debug/net8.0/Atividade_III.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Atividade_III",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        }
     ]
 }
